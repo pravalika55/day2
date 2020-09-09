@@ -1,2 +1,2 @@
-# day2
+# rdipjs
 assignments for day 2
